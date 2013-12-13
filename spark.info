@@ -1,0 +1,4 @@
+name: phpexcel
+version: 1.8.0
+compatibility: 2.1.4
+tags: ["excel", "phpexcel", "xls", "csv"]
